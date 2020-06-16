@@ -2,7 +2,7 @@
 
 Heritage International School's very first hackathon.
 
-The following repository contains the fianl projects submitted by all aprticipating team.
+The following repository contains the final projects submitted by all participating teams.
 
 Team1 - A timetable program with a voice assistant
 
